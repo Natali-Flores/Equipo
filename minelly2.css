@@ -1,0 +1,34 @@
+.hi{
+    text-align: center;
+    color: white;
+}
+
+.img1{
+  border-radius:15px;
+    width: 200px;
+    height: 250px;
+}
+body{
+    background-color: blueviolet;
+}
+div{
+    text-align: center;
+    
+}
+
+.paginas{
+    display: flex;
+justify-content: center;
+    
+}
+
+ul li{
+    
+    color: white;
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color:antiquewhite;
+}
